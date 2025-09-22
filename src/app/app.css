@@ -1,0 +1,6 @@
+app-card,
+app-header,
+app-search,
+app-sidebar {
+  display: contents;
+}
