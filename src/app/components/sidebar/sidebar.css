@@ -1,3 +1,7 @@
+:host {
+  display: contents;
+}
+
 .content-sidebar {
   width: 262px;
   min-width: 262px;

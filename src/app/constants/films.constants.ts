@@ -7,8 +7,10 @@ export const FILMS: Film[] = [
     original: 'Pulp Fiction 1994',
     category: 'Криминал/Триллер',
     rating: 8.7,
-    link: './film.html',
+    link: './film',
     image: './images/poster-film.png',
+    description:
+      'Двое бандитов Винсент Вега и Джулс Винфилд ведут философские беседы в перерывах междуразборками и решением проблем с должниками криминального босса Марселласа Уоллеса.',
   },
   {
     id: 1,
@@ -16,8 +18,10 @@ export const FILMS: Film[] = [
     original: 'Pulp Fiction 1994',
     category: 'Криминал/Триллер',
     rating: 8.7,
-    link: './film.html',
+    link: './film',
     image: './images/poster-film.png',
+    description:
+      'Двое бандитов Винсент Вега и Джулс Винфилд ведут философские беседы в перерывах междуразборками и решением проблем с должниками криминального босса Марселласа Уоллеса.',
   },
   {
     id: 2,
@@ -25,7 +29,9 @@ export const FILMS: Film[] = [
     original: 'Pulp Fiction 1994',
     category: 'Криминал/Триллер',
     rating: 8.7,
-    link: './film.html',
+    link: './film',
     image: './images/poster-film.png',
+    description:
+      'Двое бандитов Винсент Вега и Джулс Винфилд ведут философские беседы в перерывах междуразборками и решением проблем с должниками криминального босса Марселласа Уоллеса.',
   },
 ];
